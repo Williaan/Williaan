@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Willian, um estudante de programação autodidata atualmente com foco em front-end.
+Sou Willian, um estudante de programação, atualmente com foco em front-end.
 
 
 ![html5](https://user-images.githubusercontent.com/18532618/131927750-35864014-9dc4-41bb-a508-07c9081e6706.png)
