@@ -2,7 +2,8 @@
 
 Sou Willian, um estudante de programação autodidata atualmente com foco em front-end.
 
-![html5](https://user-images.githubusercontent.com/18532618/131926988-296a4b09-001e-4fc6-8a0a-1d525e4ff7a7.png)
+![html5](https://user-images.githubusercontent.com/18532618/131927100-9a3a9fd0-1d24-4fd1-8833-e13d05350b4e.png)
+
 
 ![bootstrap](https://user-images.githubusercontent.com/18532618/131926481-07dc48d4-4181-4598-98d6-2895a50f67fb.png)
 
