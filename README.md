@@ -1,5 +1,5 @@
 
-## Olá Sou Willian, um estudante de programação Front-end, em busca do Full-stack.
+## Olá Sou Willian, um estudante de programação.
 
 <div align="center"><br>
   <a href="https://github.com/Williaan">
