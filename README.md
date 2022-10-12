@@ -33,4 +33,10 @@
 
 </div>
  <br>
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Willian/count.svg" /></p>
+ <hr>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Willian&label=Profile%20views&color=0e75b6&style=flat" alt="Willian" /> 
+  </p>
+ <br>
+ 
+ 
