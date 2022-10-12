@@ -1,5 +1,5 @@
 
-## Olá Sou Willian, um estudante de programação.
+## Olá, Sou Willian 👋.
 
 <div align="center"><br>
   <a href="https://github.com/Williaan">
