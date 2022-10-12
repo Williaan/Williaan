@@ -14,9 +14,9 @@
    <img align="center" alt="sass/scss" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
    <img align="center" alt="figma" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
    <img align="center" alt="git" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-   <img align="center" alt="git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="git" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="git" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div><br>
   
 
- <img align="center" alt="avatar" height="200" width="200" src="https://user-images.githubusercontent.com/18532618/131926270-fe76b9df-935b-4782-b22f-c936c3c6ef7c.png">
+
