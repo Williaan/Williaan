@@ -42,7 +42,7 @@
 
    <img align='center' alt='mysql' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>   
   
-  <img align='center' alt='mysql' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>  
+  <img align='center' alt='mysql' src='https://img.shields.io/badge/NextJs-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>  
  
  <img align='center' alt='mysql' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'>
 
