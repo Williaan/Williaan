@@ -50,6 +50,13 @@
 ## Tools
 
    <img align='center' alt='git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>   
+
+   ## Deploy
+   
+   <img align='center' alt='vercel' src='https://img.shields.io/badge/vercel-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+   <img align='center' alt='netlify' src='https://img.shields.io/badge/netlify-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+
+   
 </div>
  <br>
  <hr>
