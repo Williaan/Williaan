@@ -45,7 +45,9 @@
    <img align='center' alt='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>      
 
    <img align='center' alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>    
-   
+
+   <img align='center' alt='prisma' src='https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=61DAFB'>      
+
  <br/>
 
 ## Tools
