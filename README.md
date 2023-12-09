@@ -32,9 +32,7 @@
 
    <img align='center' alt='styled-component' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'>
 
-   <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>      
-
-  <img align='center' alt='nextjs' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'>
+   <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>     
 
 
 ## Back-End
@@ -53,6 +51,8 @@
 ## Tools
 
    <img align='center' alt='git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>  
+
+   <img align='center' alt='trello' src='https://img.shields.io/badge/TRELLO-1572B6?style=for-the-badge&logo=trello&logoColor=white'>  
    
  <br/>
  
